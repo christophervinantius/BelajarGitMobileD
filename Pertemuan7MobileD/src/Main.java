@@ -6,6 +6,8 @@ public class Main {
 		System.out.println("Hello world");
 		
 		System.out.println("I am learning Git");
+		
+		System.out.println("This was edited from GitHub");
 	}
 
 }
